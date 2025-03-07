@@ -20,15 +20,15 @@
     padding: 10px 15px;
 }
 
-.hero {
-    height: 70vh !important;
-}
-
 .nav_ul li {
     cursor: pointer;
 }
 .badge-container{
     border-radius: 12px;
+    background-color: white;
+}
+.trend_card img{
+    border-radius: 15px;
 }
 
 @media (max-width: 767px) {
