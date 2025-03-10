@@ -7,6 +7,7 @@ import TrendCardContainer from "./trendcards";
 import BannerContainer from "./banners";
 import MobileCardContainer from "./mobileCards";
 import FashionContainer from "./fashionCards";
+import Footer from "./footer";
 
 function Home() {
   return (
@@ -28,6 +29,7 @@ function Home() {
         <h2>FASHION</h2>
       </div>
       <FashionContainer/>
+      <Footer/>
     </div>
   );
 }

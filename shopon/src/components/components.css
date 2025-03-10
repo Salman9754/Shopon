@@ -23,12 +23,25 @@
 .nav_ul li {
     cursor: pointer;
 }
-.badge-container{
+
+.badge-container {
     border-radius: 12px;
     background-color: white;
 }
-.trend_card img{
+
+.trend_card img {
     border-radius: 15px;
+}
+
+.footer_container {
+    background-color: #2E2E54;
+    color: white;
+}
+.footer_container li{
+    list-style: none;
+    font-size: 14px;
+    line-height: 2;
+    color: #9ba1a7;
 }
 
 @media (max-width: 767px) {
